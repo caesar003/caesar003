@@ -18,7 +18,7 @@
 - **[Kitty](https://sw.kovidgoyal.net/kitty/)**  
   Configuration for the Kitty terminal emulator is available [here](https://github.com/caesar003/kitty.conf).
 
-- **KSession**  
+- **KSession (Kitty Session Manager)**  
   A custom script I created to manage, save, and restore multiple Kitty tabs from predefined configurations. Find it [here](https://github.com/caesar003/ksession).
 
 - **TLM (Tmux Layout Manager)**  
