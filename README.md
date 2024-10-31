@@ -26,3 +26,6 @@
 
 - **Gitlog**  
   A productivity tool I built for summarizing monthly repository activity, especially helpful when working across multiple projects. It loops through specified directories, running `git log --author="your-name" --since="date"` to create a summary for you. Find it [here](https://github.com/caesar003/gitlog).
+- **Toggle-Kitty**  
+  A simple yet powerful script I wrote to make Kitty behave like a dropdown terminal. It hides or shows the Kitty window with a single keypress if it’s already running (it won’t launch a new instance if Kitty isn’t running). Inspired by the behavior of terminals like Tilda and Guake. Available [here](https://github.com/caesar003/toggle-kitty.git).
+
