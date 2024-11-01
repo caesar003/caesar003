@@ -1,31 +1,35 @@
-# Hi, my name is caesar...
+# Hi, I'm Caesar 👋
 
-> ...and I believe that life is full of surprise. That in a blink of an eye, something happens and everything else changes, which in turn sets you in a course of life you never expected, in a way you never imagined.
+> I believe life is full of surprises. In the blink of an eye, everything can change, leading you down unexpected paths that shape who you become.
 
+I’m a frontend developer passionate about transforming design mockups into smooth, responsive, user-friendly interfaces. My day-to-day life is filled with reading through complex documents, experimenting with design mockups, and integrating the frontend with backend APIs.
 
+When I’m not analyzing pixel-perfect layouts or fine-tuning animations, you’ll find me building tools to boost productivity—explore my coding arsenal below to see what I've created.
 
-## Coding Arsenal
+---
+
+### 🛠 Coding Arsenal
 
 - **[Tmux](https://github.com/tmux/tmux)**  
-  My personal configuration for efficient Tmux sessions can be found [here](https://github.com/caesar003/tmux-config).
+  My Tmux configuration is optimized for multi-session efficiency, available [here](https://github.com/caesar003/tmux-config).
 
 - **[Vim](https://www.vim.org/)**  
-  Check out my [Vim configuration](https://github.com/caesar003/vimrc).
+  My go-to Vim configuration for fast, efficient coding is [here](https://github.com/caesar003/vimrc).
 
 - **[Neovim](https://neovim.io/)**  
-  My Neovim setup is [here](https://github.com/caesar003/nvimconfig).
+  Check out my Neovim setup [here](https://github.com/caesar003/nvimconfig).
 
 - **[Kitty](https://sw.kovidgoyal.net/kitty/)**  
-  Configuration for the Kitty terminal emulator is available [here](https://github.com/caesar003/kitty.conf).
+  I’ve fine-tuned my Kitty terminal emulator for speed and flexibility. Configuration is [here](https://github.com/caesar003/kitty.conf).
 
 - **KSession (Kitty Session Manager)**  
-  A custom script I created to manage, save, and restore multiple Kitty tabs from predefined configurations. Find it [here](https://github.com/caesar003/ksession).
+  A custom tool for managing multiple Kitty tabs with saved configurations. Find it [here](https://github.com/caesar003/ksession).
 
 - **TLM (Tmux Layout Manager)**  
-  Another tool I authored for saving and loading Tmux layouts via JSON files, ideal for recurring setups. Available [here](https://github.com/caesar003/tlm).
+  Save and load your favorite Tmux layouts with JSON for an organized setup. Available [here](https://github.com/caesar003/tlm).
 
 - **Gitlog**  
-  A productivity tool I built for summarizing monthly repository activity, especially helpful when working across multiple projects. It loops through specified directories, running `git log --author="your-name" --since="date"` to create a summary for you. Find it [here](https://github.com/caesar003/gitlog).
-- **Toggle-Kitty**  
-  A simple yet powerful script I wrote to make Kitty behave like a dropdown terminal. It hides or shows the Kitty window with a single keypress if it’s already running (it won’t launch a new instance if Kitty isn’t running). Inspired by the behavior of terminals like Tilda and Guake. Available [here](https://github.com/caesar003/toggle-kitty.git).
+  A tool for summarizing monthly repository activity across projects—a must-have for juggling multiple repos. See it [here](https://github.com/caesar003/gitlog).
 
+- **Toggle-Kitty**  
+  Inspired by dropdown terminals, this script toggles the Kitty window on and off. Explore it [here](https://github.com/caesar003/toggle-kitty.git).
