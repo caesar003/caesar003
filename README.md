@@ -35,5 +35,5 @@ When I’m not analyzing pixel-perfect layouts or fine-tuning animations, you’
 - **Toggle-Kitty**  
   Inspired by dropdown terminals, this script toggles the Kitty window on and off. Explore it [here](https://github.com/caesar003/toggle-kitty.git).
 
-- Theme-switch  
+- **Theme-switch**  
   A tool for effortlessly toggling between dark and light themes, perfect for switching from indoor coding to outdoor environments with varying light conditions. Check it [here](https://github.com/caesar003/theme-switch.git)
