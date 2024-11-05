@@ -1,6 +1,7 @@
-# Hi, I'm Caesar 👋, ...
+# Hi, I'm Caesar 👋,
 
-> ...,
+> ...  
+> ...  
 > and I believe life is full of surprises. In the blink of an eye, everything can change, leading you down unexpected paths that shape who you become.
 
 I’m a frontend developer passionate about transforming design mockups into smooth, responsive, user-friendly interfaces. My day-to-day life is filled with reading through complex documents, experimenting with design mockups, and integrating the frontend with backend APIs.
