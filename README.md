@@ -11,17 +11,17 @@ When I’m not analyzing pixel-perfect layouts or fine-tuning animations, you’
 
 ### 🛠 Coding Arsenal
 
-- **[Tmux](https://github.com/tmux/tmux)**  
-  My Tmux configuration is optimized for multi-session efficiency, available [here](https://github.com/caesar003/tmux-config).
-
-- **[Vim](https://www.vim.org/)**  
-  My go-to Vim configuration for fast, efficient coding is [here](https://github.com/caesar003/vimrc).
-
-- **[Neovim](https://neovim.io/)**  
-  Check out my Neovim setup [here](https://github.com/caesar003/nvimconfig).
-
 - **[Kitty](https://sw.kovidgoyal.net/kitty/)**  
   I’ve fine-tuned my Kitty terminal emulator for speed and flexibility. Configuration is [here](https://github.com/caesar003/kitty.conf).
+
+- **[Tmux](https://github.com/tmux/tmux)**  
+  My Tmux configuration is optimized for multi-session efficiency, available [here](https://github.com/caesar003/tmux-config).
+  
+- **[Neovim](https://neovim.io/)**  
+  My go-to Neovm configuration for fast, efficient coding is [here](https://github.com/caesar003/nvimconfig).
+
+- **[Vim](https://www.vim.org/)**  
+  Quick edit configuration files and notes I'll go with Vim. The configuration is [here](https://github.com/caesar003/vimrc).
 
 - **KSession (Kitty Session Manager)**  
   A custom tool for managing multiple Kitty tabs with saved configurations. Find it [here](https://github.com/caesar003/ksession).
