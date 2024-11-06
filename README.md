@@ -1,39 +1,52 @@
-# Hi, I'm Caesar 👋, ...
+# Hi, I'm Caesar 👋, ...  
 
 > ...  
 > and I believe life is full of surprises. In the blink of an eye, everything can change, leading you down unexpected paths that shape who you become.
 
-I’m a frontend developer passionate about transforming design mockups into smooth, responsive, user-friendly interfaces. My day-to-day life is filled with reading through complex documents, experimenting with design mockups, and integrating the frontend with backend APIs.
+I’m a frontend developer with a deep passion for transforming design concepts into clean, responsive, and user-friendly interfaces. My day-to-day involves delving into complex documentation, experimenting with design prototypes, and seamlessly integrating frontends with backend APIs.
 
-When I’m not analyzing pixel-perfect layouts or fine-tuning animations, you’ll find me building tools to boost productivity—explore my coding arsenal below to see what I've created.
+When I’m not perfecting pixel-perfect layouts or fine-tuning animations, I enjoy building tools that boost productivity and streamline workflows. Dive into my coding arsenal below to see the tools and scripts I’ve created to simplify the developer experience.
 
 ---
 
 ### 🛠 Coding Arsenal
 
 - **[Kitty](https://sw.kovidgoyal.net/kitty/)**  
-  I’ve fine-tuned my Kitty terminal emulator for speed and flexibility. Configuration is [here](https://github.com/caesar003/kitty.conf).
+  My customized Kitty terminal configuration, fine-tuned for speed and flexibility. [Configuration here](https://github.com/caesar003/kitty.conf).
 
 - **[Tmux](https://github.com/tmux/tmux)**  
-  My Tmux configuration is optimized for multi-session efficiency, available [here](https://github.com/caesar003/tmux-config).
+  A Tmux setup optimized for efficient multi-session management. [Configuration here](https://github.com/caesar003/tmux-config).
   
 - **[Neovim](https://neovim.io/)**  
-  My go-to Neovm configuration for fast, efficient coding is [here](https://github.com/caesar003/nvimconfig).
+  My preferred Neovim configuration for high-speed, efficient coding. [Configuration here](https://github.com/caesar003/nvimconfig).
 
 - **[Vim](https://www.vim.org/)**  
-  Quick edit configuration files and notes I'll go with Vim. The configuration is [here](https://github.com/caesar003/vimrc).
+  For quick edits and note-taking, Vim is my go-to. [Configuration here](https://github.com/caesar003/vimrc).
 
 - **KSession (Kitty Session Manager)**  
-  A custom tool for managing multiple Kitty tabs with saved configurations. Find it [here](https://github.com/caesar003/ksession).
+  A custom tool for managing multiple Kitty tabs with saved configurations. [Explore it here](https://github.com/caesar003/ksession).
 
 - **TLM (Tmux Layout Manager)**  
-  Save and load your favorite Tmux layouts with JSON for an organized setup. Available [here](https://github.com/caesar003/tlm).
+  Easily save and load your favorite Tmux layouts with JSON configurations for an organized setup. [Get it here](https://github.com/caesar003/tlm).
 
 - **Gitlog**  
-  A tool for summarizing monthly repository activity across projects—a must-have for juggling multiple repos. See it [here](https://github.com/caesar003/gitlog).
+  Summarize monthly activity across multiple repositories—ideal for managing multiple projects. [See it here](https://github.com/caesar003/gitlog).
 
 - **Toggle-Kitty**  
-  Inspired by dropdown terminals, this script toggles the Kitty window on and off. Explore it [here](https://github.com/caesar003/toggle-kitty.git).
+  Inspired by dropdown terminals, this script toggles the Kitty window for quick access. [Check it out here](https://github.com/caesar003/toggle-kitty.git).
 
 - **Theme-switch**  
-  A tool for effortlessly toggling between dark and light themes, perfect for switching from indoor coding to outdoor environments with varying light conditions. Check it [here](https://github.com/caesar003/theme-switch.git)
+  A tool for seamlessly toggling between dark and light themes, perfect for adapting to changing lighting environments. [Find it here](https://github.com/caesar003/theme-switch.git).
+
+---
+
+### 🔧 Tech Stack & Interests
+
+- **Languages & Frameworks**: JavaScript, TypeScript, React, CSS
+- **Tools & Scripting**: Bash Shell, [Neo]Vim
+- **Personal Interests**:  
+  - Chess strategies (always thinking a few moves ahead 🧠)
+  - Coffee (fuel for code and life ☕)
+  - Exploring the mysteries of human behavior and psychology (because people are just fascinating!)
+  
+---
