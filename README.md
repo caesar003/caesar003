@@ -14,10 +14,9 @@ When I’m not perfecting pixel-perfect layouts or fine-tuning animations, I enj
 
 -   **[Tmux](https://github.com/tmux/tmux)**  
     A Tmux setup optimized for efficient multi-session management. [Configuration here](https://github.com/caesar003/tmux-config).
-
--   **[Neovim](https://neovim.io/)**  
-    My preferred Neovim configuration for high-speed, efficient coding. [Configuration here](https://github.com/caesar003/nvimconfig).
-
+    
+- **[Neovim](https://neovim.io/)**  
+    My Neovim journey started by clearing out my Lua configuration folder and beginning with a single, empty `init.lua`. Through countless trials and errors, experimenting with plugins and setups that didn’t quite fit, I eventually crafted a configuration that feels like home. It’s a reflection of my workflow and preferences—it might not suit everyone, but it’s uniquely mine. [Configuration here](https://github.com/caesar003/nvimconfig).  
 -   **[Vim](https://www.vim.org/)**  
     For quick edits and note-taking, Vim is my go-to. [Configuration here](https://github.com/caesar003/vimrc).
 
