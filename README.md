@@ -1,7 +1,7 @@
 # Hi, I'm Caesar 👋, ...
 
 > ...  
-> and I believe life is full of surprises. In the blink of an eye, everything can change, leading you down unexpected paths that shape who you become.
+> and I believe that life is full of surprises. That in a blink of an eye, something happens and everything else changes, which in turn sets you in a course of life you never expected, in a way you never imagined
 
 I’m a frontend developer with a deep passion for transforming design concepts into clean, responsive, and user-friendly interfaces. My day-to-day involves delving into complex documentation, experimenting with design prototypes, and seamlessly integrating frontends with backend APIs.
 
