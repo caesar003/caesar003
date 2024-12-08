@@ -9,44 +9,44 @@ When I’m not perfecting pixel-perfect layouts or fine-tuning animations, I enj
 
 ### 🛠 Coding Arsenal
 
--   **[Kitty](https://sw.kovidgoyal.net/kitty/)**  
-    My customized Kitty terminal configuration, fine-tuned for speed and flexibility. [Configuration here](https://github.com/caesar003/kitty.conf).
+- **[Kitty](https://sw.kovidgoyal.net/kitty/)**  
+  My customized Kitty terminal configuration, fine-tuned for speed and flexibility. [Configuration here](https://github.com/caesar003/kitty.conf).
 
--   **[Tmux](https://github.com/tmux/tmux)**  
-    A Tmux setup optimized for efficient multi-session management. [Configuration here](https://github.com/caesar003/tmux-config).
-    
+- **[Tmux](https://github.com/tmux/tmux)**  
+  A Tmux setup optimized for efficient multi-session management. [Configuration here](https://github.com/caesar003/tmux-config).
 - **[Neovim](https://neovim.io/)**  
-    My Neovim journey started by clearing out my Lua configuration folder and beginning with a single, empty `init.lua`. Through countless trials and errors, experimenting with plugins and setups that didn’t quite fit, I eventually crafted a configuration that feels like home. It’s a reflection of my workflow and preferences—it might not suit everyone, but it’s uniquely mine. [Configuration here](https://github.com/caesar003/nvimconfig).  
--   **[Vim](https://www.vim.org/)**  
-    For quick edits and note-taking, Vim is my go-to. [Configuration here](https://github.com/caesar003/vimrc).
+   My Neovim journey started by clearing out my Lua configuration folder and beginning with a single, empty `init.lua`. Through countless trials and errors, experimenting with plugins and setups that didn’t quite fit, I eventually crafted a configuration that feels like home. It’s a reflection of my workflow and preferences—it might not suit everyone, but it’s uniquely mine. [Configuration here](https://github.com/caesar003/nvimconfig).
+- **[Vim](https://www.vim.org/)**  
+  For quick edits and note-taking, Vim is my go-to. [Configuration here](https://github.com/caesar003/vimrc).
 
--   **KSession (Kitty Session Manager)**  
-    A custom tool for managing multiple Kitty tabs with saved configurations. [Explore it here](https://github.com/caesar003/ksession).
+- **KSession (Kitty Session Manager)**  
+  A custom tool for managing multiple Kitty tabs with saved configurations. [Explore it here](https://github.com/caesar003/ksession).
 
--   **TLM (Tmux Layout Manager)**  
-    Easily save and load your favorite Tmux layouts with JSON configurations for an organized setup. [Get it here](https://github.com/caesar003/tlm).
+- **TLM (Tmux Layout Manager)**  
+  Easily save and load your favorite Tmux layouts with JSON configurations for an organized setup. [Get it here](https://github.com/caesar003/tlm).
 
--   **Gitlog**  
-    Summarize monthly activity across multiple repositories—ideal for managing multiple projects. [See it here](https://github.com/caesar003/gitlog).
+- **Gitlog**  
+  Summarize monthly activity across multiple repositories—ideal for managing multiple projects. [See it here](https://github.com/caesar003/gitlog).
 
--   **Toggle-Kitty**  
-    Inspired by dropdown terminals, this script toggles the Kitty window for quick access. [Check it out here](https://github.com/caesar003/toggle-kitty.git).
+- **Toggle-Kitty**  
+  Inspired by dropdown terminals, this script toggles the Kitty window for quick access. [Check it out here](https://github.com/caesar003/toggle-kitty.git).
 
--   **Theme-switch**  
-    A tool for seamlessly toggling between dark and light themes, perfect for adapting to changing lighting environments. [Find it here](https://github.com/caesar003/theme-switch.git).
+- **Theme-switch**  
+  A tool for seamlessly toggling between dark and light themes, perfect for adapting to changing lighting environments. [Find it here](https://github.com/caesar003/theme-switch.git).
 
--   **Todo**  
-    Sure, there are countless fancy, feature-rich tools for task management out there, but building my own lets me learn and control exactly what I need! Plus, there's nothing like the satisfaction of creating something that fits my workflow perfectly. [Explore it here](https://github.com/caesar003/todo.git).
+- **Todo**  
+  Sure, there are countless fancy, feature-rich tools for task management out there, but building my own lets me learn and control exactly what I need! Plus, there's nothing like the satisfaction of creating something that fits my workflow perfectly. [Explore it here](https://github.com/caesar003/todo.git).
 
----
+- **Noted**  
+  Exactly, the world doesn’t need another note-taking tool, right? But building my own has been a fun and rewarding challenge! With `noted`, I can jot down thoughts, organize them my way, and truly make the tool feel like an extension of my workflow. After all, nothing beats the satisfaction of crafting something that’s tailored to your needs. [Explore it here](https://github.com/caesar003/noted.git).
 
 ### 🔧 Tech Stack & Interests
 
--   **Languages & Frameworks**: JavaScript, TypeScript, React, CSS
--   **Tools & Scripting**: Bash Shell, [Neo]Vim
--   **Personal Interests**:
-    -   Chess strategies (always thinking a few moves ahead 🧠)
-    -   Coffee (fuel for code and life ☕)
-    -   Exploring the mysteries of human behavior and psychology (because people are just fascinating!)
+- **Languages & Frameworks**: JavaScript, TypeScript, React, CSS
+- **Tools & Scripting**: Bash Shell, [Neo]Vim
+- **Personal Interests**:
+    - Chess strategies (always thinking a few moves ahead 🧠)
+    - Coffee (fuel for code and life ☕)
+    - Exploring the mysteries of human behavior and psychology (because people are just fascinating!)
 
 ---
