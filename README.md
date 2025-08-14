@@ -28,8 +28,8 @@ When I’m not perfecting pixel-perfect layouts or fine-tuning animations, I enj
 - **Gitlog**  
   Summarize monthly activity across multiple repositories—ideal for managing multiple projects. [See it here](https://github.com/caesar003/gitlog).
 
-- **Toggle-Kitty**  
-  Inspired by dropdown terminals, this script toggles the Kitty window for quick access. [Check it out here](https://github.com/caesar003/toggle-kitty.git).
+- **Togler**  
+  Inspired by dropdown terminals, this script makes apps I defined are one keypress away. [Check it out here](https://github.com/caesar003/togler.git).
 
 - **Theme-switch**  
   A tool for seamlessly toggling between dark and light themes, perfect for adapting to changing lighting environments. [Find it here](https://github.com/caesar003/theme-switch.git).
