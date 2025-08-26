@@ -50,3 +50,5 @@ When I’m not perfecting pixel-perfect layouts or fine-tuning animations, I enj
     - Exploring the mysteries of human behavior and psychology (because people are just fascinating!)
 
 ---
+
+[![wakatime](https://wakatime.com/badge/user/ebff3167-7ef8-4922-95cc-f1b6b2b3b051.svg)](https://wakatime.com/@ebff3167-7ef8-4922-95cc-f1b6b2b3b051)
